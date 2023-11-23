@@ -1,5 +1,6 @@
 # CHAT App
 ![Sign In](design/Login.png)
+![Chat Room](design/ChatRoom.png)
 # Overview
 The CHAT App is a real-time messaging application built using Expo for the front end, Firebase for authentication, and Firestore for real-time data storage. The app follows the design specifications provided in the Figma design files.
 
