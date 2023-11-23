@@ -58,7 +58,7 @@ export const database = getFirestore();<br>
 # Design
 The app's design is based on the Figma design files provided. For any design-related issues or modifications, refer to the Figma files.<br>
 **design/Chat app Expo-RN.fig**<br>
-[Chat](design/Chat Room.png) [Contact](design/Contact View.png)
+![Chat](design/Chat Room.png) ![Contact](design/Contact View.png)
 
 [Figma Chat App Prototype](https://www.figma.com/proto/h2UCUpAjj0mIv6lMoxURi2/Chat-app-Expo-RN?type=design&node-id=2-52&t=M6egSU33JoCc6I5l-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A52&mode=design)
 
